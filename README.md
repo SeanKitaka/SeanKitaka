@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Portfolio page**
 
-- 🌱 I’m currently learning **Javascript, CSS, HTML and C++**
+- 🌱 I’m currently learning **C, C++ and C#**
 
 - 📫 How to reach me **SeanKitaka@gmail.com**
 
